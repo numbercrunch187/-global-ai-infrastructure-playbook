@@ -1,4 +1,5 @@
 # -global-ai-infrastructure-playbook
+# Global AI Infrastructure & Data Center Construction Playbook
 ### Executed by a Mission-Critical Infrastructure Leader (UCLA Business Economics)
 
 This repository serves as a conceptual, high-level operational framework for scaling and de-risking multi-billion-dollar global AI compute clusters. It bridges macro-level asset deployment strategy with heavy field-tier engineering execution.
@@ -15,25 +16,18 @@ Modern AI hyperscale environments require 40–100+ kW per rack, fundamentally b
 
 ---
 
-## ⚡ 2. High-Density Power & Thermal Management
-* **Substation Grid Delivery:** Direct oversight of utility interfaces and long-lead high-voltage substation **transformers**.
-* **Redundant Power Blocks:** Engineering and logistical deployment of multi-megawatt backup **generator** modules and emergency static UPS topologies.
-* **Advanced Liquid Cooling:** Procurement and commission sequencing of ultra-efficient **chiller** plants, computer room air handlers (CRAH), and direct-to-chip liquid cooling setups engineered for high-density AI clusters.
-* **Heavy Logistics & Rigging:** Mastering the critical path for structural steel, heavy crane operations, and complex technical rigging drops.
+## ⚡ 2. OFCI Equipment Procurement & Heavy Field Logistics
+* **Critical Path Rigging & Cranes:** Directing heavy crane mobilization, lift sequencing, and complex technical rigging plans for critical-path physical drops.
+* **Owner-Furnished, Contractor-Installed (OFCI):** Mastering the logistical receipt, staging, and installation coordination of high-value owner-procured assets to eliminate sequence-driven construction delays.
+* **Thermal & Power Blocks:** Managing field deployment for long-lead equipment, including high-voltage substation transformers, emergency static UPS topologies, and multi-megawatt backup generator modules.
+* **Advanced Cooling Systems:** Coordinating the placement and installation of high-efficiency chiller plants and computer room air handlers (CRAH) optimized for high-density AI clusters.
 
 ---
 
-## 🤖 3. Advanced Automation & Industrial Tooling
-* **Robotics Integration:** Porting automation methodologies from Tier-1 automotive manufacturing environments (**Tesla, Volkswagen**) to optimize structural data center tool installations.
-* **Network Interconnects:** Supervising the integration of high-bandwidth physical fabrics, including Fiber Array Units (FAUs) and high-density optical patching frameworks.
-* **Commissioning Integrity:** Systematically governing Level 1 through Level 5 commissioning sequences to guarantee 100% operational uptime from day one.
-
----
-
-## 🌎 4. Cross-Border & Multilingual Program Operations
-* **APAC Hubs (Japan):** Navigating highly structured, dense urban engineering environments and strict capital workflows.
-* **LATAM Hubs (Brazil):** Managing regional tax complexities (*Custo Brasil*), environmental licensing (IBAMA), and logistics for long-lead equipment custom clearances.
-* **Multilingual Field Safety:** Standardizing high-risk field operational directives across diverse linguistic trade crews (English, Portuguese, Spanish, Japanese, German) to enforce absolute compliance with zero-harm metrics.
+## 🤖 3. Advanced Automation & Industrial Cross-Border Presence
+* **Industrial Scale Execution:** Leveraging direct exposure to advanced corporate production facilities and industrial automation environments (such as Volkswagen HQ) to implement hyper-precise, fast-track engineering workflows.
+* **Global Program Footprint:** Evaluating global asset footprints and navigating corporate logistics across high-growth international tech regions including Japan (during the foundational dot-com infrastructure expansion) and Brazil.
+* **Multilingual Field Safety:** Standardizing high-risk field operational directives across diverse linguistic trade crews to enforce absolute compliance with zero-harm metrics.
 
 ---
 *Maintained by an Infrastructure Project Executive specialized in turning capital expenditure into high-performance computational capacity.*
